@@ -225,7 +225,7 @@ public class AddPersonJPanel extends javax.swing.JPanel {
                             .addComponent(txtWphone, javax.swing.GroupLayout.PREFERRED_SIZE, 204, javax.swing.GroupLayout.PREFERRED_SIZE))))
                 .addContainerGap())
             .addGroup(layout.createSequentialGroup()
-                .addGap(365, 365, 365)
+                .addGap(357, 357, 357)
                 .addComponent(btnCreate)
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
