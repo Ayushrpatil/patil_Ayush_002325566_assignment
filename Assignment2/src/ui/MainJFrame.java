@@ -12,7 +12,7 @@ import ui.AccountManager.ListPersonJPanel;
 
 /**
  *
- * @author abhayramamurthy
+ * @author patil
  */
 public class MainJFrame extends javax.swing.JFrame {
     private personhistory Personhistory;
