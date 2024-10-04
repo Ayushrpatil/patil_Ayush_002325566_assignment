@@ -11,7 +11,7 @@ import model.personhistory;
 
 /**
  *
- * @author abhayramamurthy
+ * @author Patil
  */
 public class AddPersonJPanel extends javax.swing.JPanel {
     JPanel userProcessContainer;

@@ -13,7 +13,7 @@ import model.personhistory;
 
 /**
  *
- * @author abhayramamurthy
+ * @author Patil
  */
 public class ListPersonJPanel extends javax.swing.JPanel {
     JPanel userProcessContainer;
